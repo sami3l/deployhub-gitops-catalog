@@ -1,6 +1,6 @@
 # DeployHub
 
-DeployHub is an independent, GitOps-ready application catalog built as a public DevOps case study. It demonstrates a containerized full-stack system, automated verification, health checks and cloud-ready configuration.
+DeployHub is an independent, GitOps-ready application catalog built as a public DevOps case study. It demonstrates a containerized full-stack system, automated verificatio n, health checks and cloud-ready configuration.
 
 > This is an original portfolio project. It contains no employer source code, infrastructure details, credentials or proprietary assets.
 
